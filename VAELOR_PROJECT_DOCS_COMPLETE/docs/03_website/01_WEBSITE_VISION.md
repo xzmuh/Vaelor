@@ -16,7 +16,7 @@ A seção de mundo apresenta Vaelor, o Cisma, as Alturas e as Fendas sem despeja
 
 A seção de Afinidades introduz Nival, Cruor e Voltis como manifestações da energia natural. Ela também sugere que essas forças estão instáveis. O site não deve explicar regras que ainda não existem.
 
-A seção de personagens apresenta Fuyuka, Akane e Hayriko com grande impacto visual. Cada personagem pode ocupar quase toda a viewport. Ilustração, vídeo em loop, nome, Afinidade e um fragmento curto de identidade são suficientes para a primeira versão.
+A seção de personagens apresenta Fuyuka, Akane e Miyari com grande impacto visual. Cada personagem pode ocupar quase toda a viewport. Ilustração, vídeo em loop, nome, Afinidade e um fragmento curto de identidade são suficientes para a primeira versão.
 
 A seção de facções mostra que diferentes grupos perseguem respostas. Como os nomes ainda não foram definidos, essa seção pode ser adiada ou construída com linguagem provisória até que existam identidades sólidas. É melhor não exibir nomes genéricos como se fossem finais.
 

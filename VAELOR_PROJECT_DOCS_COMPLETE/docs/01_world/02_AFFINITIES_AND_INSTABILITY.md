@@ -12,7 +12,7 @@ Nival está associada a gelo e frio. A personagem Fuyuka pertence a essa Afinida
 
 Cruor está associada a sangue, vida e matéria orgânica. Akane pertence a essa Afinidade e possui uma direção estética de inspiração vampírica e melancólica. Essa estética não confirma que vampiros existam como espécie em Vaelor. Ela descreve a linguagem visual planejada para a personagem. Também não está definido se Cruor controla sangue diretamente, manipula vitalidade ou funciona de outra maneira. O conceito deve permanecer amplo até que o sistema seja aprofundado.
 
-Voltis está associada a eletricidade. Hayriko pertence a essa Afinidade e deve transmitir velocidade, perigo e confiança. Novamente, esses traços definem a personagem, não todos os usuários de Voltis.
+Voltis está associada a eletricidade. Miyari pertence a essa Afinidade e combina leveza, travessura e mistério. Ela utiliza bolas de temari como catalisadores para gerar energia plasmática voltaica roxa e branca. As temaris podem ricochetear, permanecer suspensas por instantes e liberar descargas elétricas durante o combate. Esses traços e essa forma de manifestação definem Miyari, não todos os usuários de Voltis.
 
 A história começa em um período de instabilidade. As energias regionais deixam de se comportar como antes. Essa alteração pode ser percebida por mudanças ambientais, fenômenos anormais e pelo surgimento de criaturas. A documentação ainda não define o primeiro local afetado, a velocidade de propagação ou a causa da instabilidade.
 

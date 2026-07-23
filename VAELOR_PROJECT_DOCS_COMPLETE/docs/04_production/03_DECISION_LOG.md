@@ -12,7 +12,7 @@ O site deve funcionar como primeira entrada pública para a IP.
 
 As Afinidades conhecidas são Nival, Cruor e Voltis.
 
-Fuyuka, Akane e Hayriko formam o trio inicial de personagens planejadas.
+Fuyuka, Akane e Miyari formam o trio inicial de personagens planejadas.
 
 A Faísca do protagonista não é uma Afinidade.
 

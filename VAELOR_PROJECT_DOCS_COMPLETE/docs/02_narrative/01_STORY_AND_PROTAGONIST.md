@@ -18,7 +18,7 @@ A Faísca não é uma Afinidade. Ela não deve ser descrita como Nival, Cruor, V
 
 A pergunta principal não é “qual poder ele ganhou?”. A pergunta principal é “por que ele foi capaz de perceber aquilo?”. Essa mudança de foco evita que o protagonista seja apresentado como especial apenas porque recebeu força. Seu papel nasce de uma capacidade de percepção que pode estar ligada a sua identidade, ao Cisma, às Alturas, às Fendas ou a outro elemento ainda não definido.
 
-A jornada leva o protagonista a diferentes forças em movimento. Exploradores buscam as Alturas. Outros descem às Fendas. Uma organização militar e científica tenta fabricar portadores de Afinidade. Personagens como Fuyuka, Akane e Hayriko podem cruzar seu caminho, mas a posição de cada uma dentro da trama ainda não foi definida.
+A jornada leva o protagonista a diferentes forças em movimento. Exploradores buscam as Alturas. Outros descem às Fendas. Uma organização militar e científica tenta fabricar portadores de Afinidade. Personagens como Fuyuka, Akane e Miyari podem cruzar seu caminho, mas a posição de cada uma dentro da trama ainda não foi definida.
 
 A estrutura narrativa futura precisa preservar uma sensação de descoberta gradual. O mundo não deve explicar o Cisma no primeiro arco. As Alturas não devem ser confirmadas apenas para oferecer uma cena grandiosa. As Fendas não devem revelar seu fundo cedo demais. A Faísca não deve receber um manual completo assim que aparece.
 

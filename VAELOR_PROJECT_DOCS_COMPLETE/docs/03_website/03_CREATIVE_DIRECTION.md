@@ -12,7 +12,7 @@ O Cisma deve ser sugerido por ruptura e ausência. Como sua aparência real aind
 
 Nival, Cruor e Voltis precisam ser reconhecíveis sem depender apenas de cor. Nival pode usar silêncio, precisão, cristais, frio e espaço. Cruor pode usar fluxo, pulsação, matéria orgânica e melancolia. Voltis pode usar tensão, velocidade, descarga e mudança súbita. Essas são direções, não regras fechadas.
 
-Fuyuka deve transmitir frieza, disciplina e elegância. Akane deve transmitir melancolia com uma inspiração vampírica. Hayriko deve transmitir velocidade, perigo e confiança.
+Fuyuka deve transmitir frieza, disciplina e elegância. Akane deve transmitir melancolia com uma inspiração vampírica. Miyari deve transmitir leveza, travessura e mistério. Seu sorriso e suas temaris voltaicas devem despertar curiosidade, sem transformar sua presença em ameaça direta.
 
 A tipografia ainda não foi escolhida. Ela deve equilibrar legibilidade e presença. O logotipo de Vaelor precisa funcionar de forma isolada, em tela de entrada, favicon, cabeçalho e materiais futuros.
 

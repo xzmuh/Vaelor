@@ -28,7 +28,7 @@ A seção também pode sugerir instabilidade, porque esse fenômeno move a hist�
 
 ## Personagens
 
-Fuyuka, Akane e Hayriko são os três destaques iniciais.
+Fuyuka, Akane e Miyari são os três destaques iniciais.
 
 Cada personagem pode possuir uma seção quase em tela cheia, com:
 

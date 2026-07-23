@@ -35,8 +35,11 @@ Este arquivo separa fatos aceitos de decisões ainda pendentes.
 - Fuyuka deve transmitir frieza, disciplina e elegância.
 - Akane é associada a Cruor.
 - Akane possui direção vampírica e melancólica.
-- Hayriko é associada a Voltis.
-- Hayriko deve transmitir velocidade, perigo e confiança.
+- Miyari é associada a Voltis.
+- Miyari combina leveza, travessura e mistério.
+- Miyari utiliza bolas de temari como catalisadores de energia plasmática voltaica roxa e branca.
+- As temaris de Miyari podem ricochetear, permanecer suspensas por instantes e liberar descargas elétricas.
+- A frase-conceito de Miyari é: "Alguns mistérios preferem sorrir antes de oferecer uma resposta."
 - O site é a primeira manifestação pública de Vaelor.
 - O site deve ser cinematográfico, misterioso e premium.
 - O fluxo planejado passa por entrada, mundo, Afinidades, personagens, facções e encerramento.
@@ -59,7 +62,7 @@ A Faísca ainda não possui origem ou funcionamento explicados.
 
 O protagonista não possui nome, visual, idade, origem, personalidade completa ou objetivo emocional.
 
-Fuyuka, Akane e Hayriko ainda não possuem biografias, armas, grupos ou funções narrativas.
+Fuyuka, Akane e Miyari ainda não possuem biografias, grupos ou funções narrativas. As armas de Fuyuka e Akane ainda não foram definidas.
 
 As três facções ainda não possuem nomes oficiais, símbolos, líderes ou estruturas.
 

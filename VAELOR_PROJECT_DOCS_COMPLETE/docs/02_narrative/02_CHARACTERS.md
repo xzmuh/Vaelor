@@ -28,15 +28,19 @@ Akane deve carregar beleza e inquietação sem se tornar uma cópia direta de ar
 
 Não estão definidos sua origem, função na trama, grupo, arma, história, relações, objetivo ou conflito interno.
 
-## Hayriko
+## Miyari
 
-Hayriko é uma personagem associada à Afinidade Voltis.
+Miyari é uma personagem associada à Afinidade Voltis.
 
-Sua direção atual combina velocidade, perigo e confiança. Ela deve parecer alguém capaz de dominar a cena rapidamente, tanto pela energia quanto pela atitude.
+Sua direção combina leveza, travessura e mistério. Está quase sempre sorrindo, como se soubesse algo que os outros ainda não descobriram. Sua presença transmite curiosidade em vez de ameaça, tornando difícil distinguir quando está apenas brincando e quando conduz alguém exatamente para onde deseja.
 
-Confiança não deve ser confundida automaticamente com arrogância. Perigo não significa crueldade. Velocidade não exige comportamento infantil ou impulsivo. Essas decisões permanecem abertas.
+Sua arma são bolas de temari, utilizadas como catalisadores para gerar uma energia plasmática voltaica nas cores roxa e branca. As temaris podem ricochetear, permanecer suspensas por instantes e liberar descargas elétricas durante o combate.
 
-Não estão definidos sua origem, função na trama, grupo, arma, história, relações, objetivo ou conflito interno.
+Sua frase-conceito é:
+
+> "Alguns mistérios preferem sorrir antes de oferecer uma resposta."
+
+Não estão definidos sua origem, função na trama, grupo, história, relações, objetivo ou conflito interno.
 
 ## Relação entre o elenco e o site
 

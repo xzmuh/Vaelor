@@ -56,3 +56,14 @@ const fullBodyCharacters = ['Fuyuka', 'Akane', 'Miyari', 'Vaelor-man', 'Vaelor-f
 await Promise.all(fullBodyCharacters.map((name) =>
   sharp(`img/chars/${name}-fullbody.png`).webp({ quality: 94, alphaQuality: 100 }).toFile(`public/chars/${name.toLowerCase()}-fullbody.webp`)
 ))
+
+const worldRegions = [
+  { slug: 'nival', source: 'img/scenne/snow.png' },
+  { slug: 'auren', source: 'img/scenne/green.png' },
+  { slug: 'hanamori', source: 'img/scenne/floer.png' },
+]
+
+await Promise.all(worldRegions.flatMap(({ slug, source }) => [
+  sharp(source).resize(1920, 1080, { fit: 'cover' }).webp({ quality: 88 }).toFile(`public/worlds/${slug}-1920.webp`),
+  sharp(source).resize(960, 1200, { fit: 'cover' }).webp({ quality: 84 }).toFile(`public/worlds/${slug}-mobile.webp`),
+]))
